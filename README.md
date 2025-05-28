@@ -1,1 +1,1 @@
-# NQE-QSVM
+# NQE-QSVC
