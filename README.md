@@ -2,9 +2,12 @@ Quantum machine learning (QML) combines quantum computing with machine learning,
 The workflow diagram for the gene expression biomarker study is depicted in Figure 1. 
 ![image](https://github.com/user-attachments/assets/27757c81-576a-4f98-bffb-1f616059b17f)
 Figure.1.  The workflow diagram for the gene expression biomarker study which involve using principal component analysis (PCA) to reduce the number of features (principal components), thus requiring fewer qubits. We utilize the SMOTE package for data balancing and optimize SVC and QSVC models through the NQE approach. This hybrid method combines quantum data encoding with neural network training to separate the classes of data into orthogonal subspaces,  followed by performance comparison.
+
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/062abf56-6fea-4b69-9266-1b7a4b2163fe" />
 Figure 2 Data embedding by using Neural Quantum Embedding (NQE)
+
 Figure 3 illustrates the workflow of integrating NQE with QSVC and QNN classification.
+
 <img width="273" alt="image" src="https://github.com/user-attachments/assets/39a6d811-0ffd-4a61-a12c-2e58fda85ca8" />
 Figure 3. The workflow of integrating NQE with QSVC and QNN classifiers.
 
