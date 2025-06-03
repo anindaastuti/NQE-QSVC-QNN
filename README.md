@@ -12,7 +12,9 @@ Figure 3 illustrates the workflow of integrating NQE with QSVC and QNN classific
 Figure 3. The workflow of integrating NQE with QSVC and QNN classifiers.
 
 Supplementary file 1 – The results of the 48 differentially expressed genes obtained by analysing gene expression profiles using the DEseq2 package. 
+
 Supplementary file 2 – The results of the 4 differentially expressed miRNAs obtained by analysing miRNAs expression profiles using the R ‘limma’ package.
+
 Supplementary file 3 – The results of the 10 performance metrics of the miRNA biomarker study (NT vs M0) for the four case studies are as follows: SVC, QSVC, NQE+SVC, and NQE+QSVC.
 
 
